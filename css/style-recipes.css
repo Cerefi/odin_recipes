@@ -1,8 +1,10 @@
 html {
     background: #ffdd99;
 }
+
 div {
     text-align: center;
+    margin-top: -27px;
 }
 
 .content {

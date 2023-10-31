@@ -10,10 +10,15 @@ html {
 }
 
 .nav {
-    display: inline-block;
+    display: flex;
     font-size: 30px;
     font-family: Garamond;
     margin-top: 6%;
+}
+
+.nav > * {
+    flex: 1;
+    text-align: center;
 }
 
 a {
@@ -31,18 +36,6 @@ img {
     margin-top: 30px;
 }
 
-#spaghetti {
-    margin-left: 10%;
-}
-
-#casserole {
-    margin-left: 19%;
-}
-
-#cobbler {
-    margin-left: 21%;
-}
-
 #spag-image {
     margin-left: 8%;
 }
@@ -52,5 +45,5 @@ img {
 }
 
 #cobbler-image {
-    margin-left: 13%;
+    margin-left: 15%;
 }
