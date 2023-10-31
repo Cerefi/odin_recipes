@@ -1,0 +1,23 @@
+html {
+    background: #ffdd99;
+}
+div {
+    text-align: center;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+    text-align: justify;
+}
+
+.content h1 {
+    margin-top: 0%;
+}
+
+a {
+    display: inline;
+    color: black;
+    font-size: 25px;
+}
